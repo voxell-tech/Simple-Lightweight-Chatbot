@@ -5,7 +5,7 @@ The chatbot perform well based on the datasets given only. It is not universal l
 
 P.S. The dataset for this chatbot must be in a reasonable size only. Do not provide too much data as it will eventually be confused on what it is going to reply given a input statement!
 
-Here's the link to the tutorial on YouTube by Nixon on Nyx AIoT:
+Here's the link to the tutorial on YouTube by Nixon on Voxell Technologies:
 https://youtu.be/jXlFHA9tkB4
 
 Example:
@@ -55,3 +55,7 @@ Connected!!!
 [USER]: So you don't worry?
 [Alex_v3.0]: I am not capable of worry, exactly.  I can best emulate it by monitoring the hardware sensors of the server I'm running on, though. Confidence level: 75.0
 ```
+
+License
+---
+This project is under the GPU Public License, Version 3
