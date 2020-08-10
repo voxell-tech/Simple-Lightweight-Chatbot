@@ -58,4 +58,4 @@ Connected!!!
 
 License
 ---
-This project is under the GPU Public License, Version 3
+This project is under the GNU Public License, Version 3
