@@ -5,8 +5,8 @@ The chatbot perform well based on the datasets given only. It is not universal l
 
 P.S. The dataset for this chatbot must be in a reasonable size only. Do not provide too much data as it will eventually be confused on what it is going to reply given a input statement!
 
-Here's the link to the tutorial on YouTube by Nixon on Voxell:
-https://youtu.be/jXlFHA9tkB4
+Here's the link to the playlist on YouTube by Nixon on Voxell:
+https://www.youtube.com/watch?v=jXlFHA9tkB4&list=PLlnBGPe6GFdMp587hstcuUjueTA6wIsXh
 
 Example:
 ```
